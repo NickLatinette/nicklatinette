@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm currently a student at Missouri University of Science and Technology obtaining a bachelors degree in computer science. 
+I was an officer in ACM Game where I was the web lead but really only begun to dip my feet into web design. In January 2022, the members of 
+ACM Game decided to create a new club, called Appilied computing, where I am a project lead on creating a website. Honestly I have a long way to 
+go before I understand web design fully but I am making progress never the less. Applied comuting will also let me participate in other kinds of projects.
+Currently our club is looking for some way to get a database up and running without spending money by using the resources provided by campus. I will link a repo whenever the project is actually complete.
+
+## How to reach me
+Email: nicholaslatinette@gmail.com
 
 <!--
 **NickLatinette/nicklatinette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
