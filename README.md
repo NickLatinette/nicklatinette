@@ -5,7 +5,7 @@ ACM Game decided to create a new club, called Appilied computing, where I am a p
 go before I understand web design fully but I am making progress never the less. Applied comuting will also let me participate in other kinds of projects.
 Currently our club is looking for some way to get a database up and running without spending money by using the resources provided by campus. I will link a repo whenever the project is actually complete.
 
-### to reach me
+### How to reach me
 Email: nicholaslatinette@gmail.com
 
 <!--
